@@ -8,7 +8,10 @@ Yes, so the single mood genres, which are used by Spotify and Apple Music, canno
 Now, here comes this project
 
 
-https://github.com/user-attachments/assets/2783b829-4c8c-4d38-b709-3a3c8fb4557d
+
+https://github.com/user-attachments/assets/d17d6b43-9417-4574-8ced-102e413eebff
+
+
 
 
 
