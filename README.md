@@ -4,7 +4,7 @@ Let's start with solo I created below, can you tell me what's your feeling?
 
 
 
-Yes, so the single mood genres, which are used by Spotify and Apple Music, cannot capture our true feelings - the most import for Art\
+Yes, so the single mood genres, which are used by Spotify and Apple Music, cannot capture our true feelings - the most important for Art\
 Now, here comes this project
 
 
