@@ -1,5 +1,6 @@
 
 Human is always self-conflicted, so the art work.....
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/8a7b4916-2b4b-4257-a056-ddeed0b4a1ab" />
 
 ## 🎵 Project Overview
 This project explores **Composite Mood Genre (CMG) classification in music** using **Convolutional Neural Networks (CNNs)**. Traditional music classification often assigns a **single mood tag** (e.g., happy or sad), which fails to capture the complexity of human emotions. Our model aims to classify songs into **Composite Mood Genres**, such as "Relax but Energetic" or "Negative but Hopeful" to improve music recommendations.
