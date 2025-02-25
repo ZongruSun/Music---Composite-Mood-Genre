@@ -4,7 +4,9 @@ For example, from the song "Wake me up when september ends" and "Summertime Sadn
 Therefore, the single mood genres, which are used by Spotify and Apple Music, cannot capture our true feelings - the most import for Art
 Now, here comes this project
 
-<img width="209" alt="image" src="https://github.com/user-attachments/assets/8a7b4916-2b4b-4257-a056-ddeed0b4a1ab" /> <img width="209" alt="image" src="https://github.com/user-attachments/assets/7f41f2b3-c75b-43ba-a520-9de2d435e883" /> <img width="208" alt="image" src="https://github.com/user-attachments/assets/89610835-bb3c-4a97-a06c-959cbe1480f4" />
+
+https://github.com/user-attachments/assets/2783b829-4c8c-4d38-b709-3a3c8fb4557d
+
 
 
 
