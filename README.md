@@ -11,7 +11,7 @@ This project explores **Composite Mood Genre (CMG) classification in music** usi
 - **Music Recommendation Potential**: Enhances music streaming platforms with **emotionally intelligent recommendations**.
 
 ## 📂 Key Results
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/32379f83-e63c-40ac-bed8-1a719fdabf47" /><img width="385" alt="image" src="https://github.com/user-attachments/assets/39f58116-be6b-44d2-8f97-16d7610b8fd9" />
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/32379f83-e63c-40ac-bed8-1a719fdabf47" /><img width="394" alt="image" src="https://github.com/user-attachments/assets/39f58116-be6b-44d2-8f97-16d7610b8fd9" />
 
 
 
