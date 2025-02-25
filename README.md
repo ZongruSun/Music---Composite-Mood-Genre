@@ -12,6 +12,12 @@ This project explores **Composite Mood Genre (CMG) classification in music** usi
 
 ## 📂 Key Results
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/32379f83-e63c-40ac-bed8-1a719fdabf47" /><img width="394" alt="image" src="https://github.com/user-attachments/assets/39f58116-be6b-44d2-8f97-16d7610b8fd9" />
+### **🔹 Insights from the Results**
+- **CNN-64 outperforms LeNet-5**: The **CNN-64 model** shows **higher classification accuracy** across most composite mood genres compared to LeNet-5, as seen in the heatmap.
+- **Stronger classification for dominant moods**: Categories like **"Relax but Energetic"** and **"Insecure but Inessential"** show higher correct predictions, indicating these moods have distinct features that are well captured by the model.
+- **Higher recall in CNN-64**: The **right-side heatmap** (CNN-64) shows higher numbers along the diagonal, suggesting better **recall performance** compared to LeNet-5.
+- **Confusion in closely related moods**: Some categories, like **"Calm but Warm"** and **"Calm but Epic"**, show moderate misclassification, likely due to overlapping musical features.
+- **Improved generalization**: The **"Other"** category has better distribution in CNN-64, indicating it is **less likely to classify ambiguous inputs into dominant classes**, improving generalization.
 
 ---
 
@@ -110,10 +116,6 @@ We welcome **Issues** and **Pull Requests**!
 ## 📧 Contact
 For any questions or suggestions, feel free to contact [ZongruSun](https://github.com/ZongruSun) 🚀
 
-
-4. **Results are displayed with confidence scores**.
-
----
 
 
 
