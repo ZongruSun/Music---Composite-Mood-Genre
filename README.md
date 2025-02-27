@@ -4,7 +4,7 @@ Let's start with solo I created below, can you tell me what's your feeling?
 
 
 
-Yes, so the single mood genres, which are used by Spotify and Apple Music, cannot capture our true feelings\
+Yes, so the single mood genres, which are used by Spotify and Apple Music, cannot capture our true feelings (e.g., Sad but Hopeful)\
 Now, here comes this project
 
 
