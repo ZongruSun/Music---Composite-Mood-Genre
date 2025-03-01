@@ -36,35 +36,12 @@ This project explores **Composite Mood Genre (CMG) classification in music** usi
 
 ---
 
-## 📌 **Usage Guide**
-
-### **1️⃣ Convert Audio Files to Spectrograms**
-Run the following script to preprocess the audio data:
-```python
-from utils import generate_spectrogram
-
-generate_spectrogram("path/to/audio/file.wav", "output/spectrogram.png")
-```
-
-### **2️⃣ Train the CNN Model**
-```python
-python train_cnn.py
-```
-- Loads dataset & generates spectrogram images.
-- Trains **CNN-64 & LeNet-5** for music mood classification.
-- Saves the trained model for inference.
-
-### **3️⃣ Evaluate Model Performance**
-```python
-python evaluate_model.py
-```
-- Computes **Accuracy & Recall metrics**.
-- Generates **Confusion Matrix & Heatmap**.
-
----
-
 ## 📊 **Model Architecture**
 The project uses **CNN-based architectures** for feature extraction from spectrograms.
+CNNs are comprised of three types of layers. These are convolutional layers, pooling layers, and fully connected layers. 
+When these layers are stacked, a CNN architecture has been formed.
+<img width="543" alt="image" src="https://github.com/user-attachments/assets/3f8bd8b4-a798-4dce-98cb-356abcc89a77" />
+
 
 ### **🔹 CNN-64 Model**
 - **Input**: Spectrogram images.
